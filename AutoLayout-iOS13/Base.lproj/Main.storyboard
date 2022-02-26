@@ -30,7 +30,6 @@
                                                 <rect key="frame" x="306" y="-4.5" width="196" height="128"/>
                                             </imageView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="fob-ve-FIA" firstAttribute="centerX" secondItem="A74-vl-a1Y" secondAttribute="centerX" id="2v5-SM-jnS"/>
                                             <constraint firstItem="fob-ve-FIA" firstAttribute="centerY" secondItem="A74-vl-a1Y" secondAttribute="centerY" id="z0p-hF-wDH"/>
@@ -51,7 +50,6 @@
                                                 </subviews>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="0D2-gH-Iey" firstAttribute="centerX" secondItem="GXt-oP-Fnb" secondAttribute="centerX" id="GH5-oj-n5x"/>
                                             <constraint firstItem="0D2-gH-Iey" firstAttribute="centerY" secondItem="GXt-oP-Fnb" secondAttribute="centerY" id="zHJ-yF-dHZ"/>
@@ -80,7 +78,6 @@
                                                 </subviews>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="AhL-yq-IqY" firstAttribute="centerY" secondItem="Ehf-US-laM" secondAttribute="centerY" id="dMX-HY-22c"/>
                                             <constraint firstItem="AhL-yq-IqY" firstAttribute="centerX" secondItem="Ehf-US-laM" secondAttribute="centerX" id="jmg-N2-DQb"/>
